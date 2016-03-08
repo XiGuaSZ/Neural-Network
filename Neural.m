@@ -1,10 +1,10 @@
 function NeuralNetwork
 
 clear;
-dataset = 'mushroom';
-%dataset = 'liver';
-%dataset = 'isolet';
-%dataset = 'ionosphere';
+dataset = 'data/mushroom';
+%dataset = 'data/liver';
+%dataset = 'data/isolet';
+%dataset = 'data/ionosphere';
 
 
 
