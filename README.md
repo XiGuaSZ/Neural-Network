@@ -3,6 +3,11 @@
  Author: QIN Tong
  Class: COMP 5212 Machine Learning HKUST
  
+ Logistic.m
+ Linear Discrimination
+ 
+ 
+ Neural.m
  This code is two-layer neural network, it can only handle multi input with single output two classed data.
  X is input data, it can has many dimention
  Y is class, 0 ro 1
